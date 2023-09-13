@@ -7,7 +7,7 @@
     "max-followers": 40,
     "max-follow-requests": 40,
     "from-notifications": 7,
-    "reply-interval-in-hours": 72,
+    "reply-interval-in-hours": 0,
     "remember-users-for-hours": 12,
     "log-level": 10
 }
