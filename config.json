@@ -1,0 +1,13 @@
+{
+    "server": "firefish.place",
+    "home-timeline-length": 40,
+    "max-bookmarks": 40,
+    "max-favourites": 40,
+    "max-followings": 40,
+    "max-followers": 40,
+    "max-follow-requests": 40,
+    "from-notifications": 7,
+    "reply-interval-in-hours": 72,
+    "remember-users-for-hours": 12,
+    "log-level": 10
+}
